@@ -29,10 +29,11 @@ async function createRoundImage(fileName: string, fileDir: string, outputDir: st
     ctx.beginPath();
     ctx.arc(circle.x, circle.y, circle.radius, 0, Math.PI * 2, true);
     ctx.closePath();
-    ctx.fillStyle = '#ffffff';
+
+    ctx.fillStyle = fileName.split('_')[0] === 'default' ? '#A8DFBE' : '#ffffff';
     ctx.fill();
 
-    const image = await loadImage(path.join(fileDir, fileName));
+    const image = await loadImage(path.join(fileDir, fileName))
 
     const isHorizontal = image.width > image.height;
     const ratio = isHorizontal
