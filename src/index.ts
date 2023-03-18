@@ -59,7 +59,7 @@ async function createRoundImage(fileName: string, fileDir: string, outputDir: st
 
     await Promise.all(files.map(async (f) => {
         await createRoundImage(f, originalPath, path.join(outputDir, 'rounds'));
-        let title = f.split('.')[0].toLowerCase().replace(/[-]/g, ' ');
+        let title = f.split('.')[0].toLowerCase().replace(/[-_]/g, ' ');
         title = title.charAt(0).toUpperCase() + title.slice(1);
         brands.push({
             name: title,
