@@ -32,7 +32,7 @@ function createDirsIfNotExists(dirs: string[]) {
 async function createImages(): Promise<IBrand[]>{
     const brands: IBrand[] = [];
     await Promise.all((await getFiles(ORIGINAL_PATH)).map(async (f) => {
-        // await createRoundImage(f, ORIGINAL_PATH, path.join(OUTPUT_DIR, 'rounds'));
+        await createRoundImage(f, ORIGINAL_PATH, path.join(OUTPUT_DIR, 'rounds'));
         let title = f.split('.')[0].toLowerCase().replace(/[-_]/g, ' ');
         title = title.charAt(0).toUpperCase() + title.slice(1);
         brands.push({
