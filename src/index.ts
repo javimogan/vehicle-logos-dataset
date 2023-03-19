@@ -3,6 +3,13 @@ import fs from 'fs';
 import { createCanvas, loadImage } from 'canvas';
 import { IBrand } from './types';
 import slug from 'slug';
+import { createRoundImage } from './utils/roundImage';
+import { createThumbnail } from './utils/thumbnail';
+
+const GITHUB_IMAGE_BASE_URL = 'https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos';
+const ORIGINAL_PATH = path.join(__dirname, 'originals')
+const OUTPUT_DIR = path.join(__dirname, '../logos');
+
 
 async function getFiles(directoryPath: string) {
     try {
@@ -13,65 +20,42 @@ async function getFiles(directoryPath: string) {
     }
 }
 
-async function createRoundImage(fileName: string, fileDir: string, outputDir: string): Promise<boolean> {
-
-    const canvas = createCanvas(512, 512);
-    const ctx = canvas.getContext('2d');
-    ctx.fillStyle = '#00000000';
-    ctx.fillRect(0, 0, canvas.width, canvas.height);
-
-    const circle = {
-        x: canvas.width / 2,
-        y: canvas.height / 2,
-        radius: canvas.width / 2,
-    }
-
-    ctx.beginPath();
-    ctx.arc(circle.x, circle.y, circle.radius, 0, Math.PI * 2, true);
-    ctx.closePath();
-
-    ctx.fillStyle = fileName.split('_')[0] === 'default' ? '#A8DFBE' : '#ffffff';
-    ctx.fill();
-
-    const image = await loadImage(path.join(fileDir, fileName))
-
-    const isHorizontal = image.width > image.height;
-    const ratio = isHorizontal
-        ? image.width / image.height
-        : image.height / image.width;
-    const width = canvas.width * 0.65; // set the width you want
-    const height = isHorizontal ? width / ratio : width * ratio;
-
-    ctx.drawImage(image, circle.x - (width / 2), circle.y - (height / 2), width, height);
-    return new Promise((resolve, reject) => {
-        canvas.createPNGStream().pipe(fs.createWriteStream(path.join(outputDir, fileName))).once('finish', () => {
-            resolve(true)
-        })
-    })
-
+function createDirsIfNotExists(dirs: string[]) {
+    // Create dir if dont exist
+    dirs.forEach(dir => {
+        if (!fs.existsSync(dir)) {
+            fs.mkdirSync(dir);
+        }
+    });
 }
-(async () => {
-    const originalPath = path.join(__dirname, 'originals')
-    const outputDir = path.join(__dirname, '../logos');
-    const githubImageURL = 'https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos';
-    const files = await getFiles(originalPath)
-    const brands: IBrand[] = [];
 
-    await Promise.all(files.map(async (f) => {
-        await createRoundImage(f, originalPath, path.join(outputDir, 'rounds'));
+async function createImages(): Promise<IBrand[]>{
+    const brands: IBrand[] = [];
+    await Promise.all((await getFiles(ORIGINAL_PATH)).map(async (f) => {
+        // await createRoundImage(f, ORIGINAL_PATH, path.join(OUTPUT_DIR, 'rounds'));
         let title = f.split('.')[0].toLowerCase().replace(/[-_]/g, ' ');
         title = title.charAt(0).toUpperCase() + title.slice(1);
         brands.push({
             name: title,
             slug: slug(title),
             image: {
-                round: `${githubImageURL}/rounds/${f}`,
-                original: `${githubImageURL}/originals/${f}`
+                round: `${GITHUB_IMAGE_BASE_URL}/rounds/${f}`,
+                original: `${GITHUB_IMAGE_BASE_URL}/originals/${f}`,
+                local_round: path.join('.', 'rounds', f)
+
             }
         });
     }));
+    return brands;
+}
 
+(async () => {
+    createDirsIfNotExists([OUTPUT_DIR, path.join(OUTPUT_DIR, 'rounds')])
+
+    const brands = await createImages();
+
+    await createThumbnail(path.join(OUTPUT_DIR, 'thumbnail.png'), brands, OUTPUT_DIR);
     // Write content to file
-    fs.writeFileSync(path.join(outputDir, 'logos.json'), JSON.stringify(brands, null, 2));
+    fs.writeFileSync(path.join(OUTPUT_DIR, 'logos.json'), JSON.stringify(brands, null, 2));
 
 })()

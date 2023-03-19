@@ -4,5 +4,6 @@ export interface IBrand {
     image:{
         round: string;
         original: string;
+        local_round: string;
     }
 }
