@@ -5,10 +5,26 @@
 	width=1024
 	style="float: left; margin-right: 10px;" />
 </p>
-Each logo has two size variations
-* Original
-* Round
 
+## Content
+All images are included in the `/logos directory`.
+- `/logos/original` include original images
+- `/logos/rounds`include rounded images
+
+All images are defined in the `/logos/logos.json' file.
+
+### Example of item
+```
+    {
+    "name": "Audi",
+    "slug": "audi",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/audi.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/audi.png",
+      "local_round": "rounds/audi.png"
+    }
+  }
+```
 
 # 🌚 About author
 <!-- About Author -->
