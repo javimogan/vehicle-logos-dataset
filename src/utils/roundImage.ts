@@ -29,7 +29,7 @@ export async function createRoundImage(fileName: string, fileDir: string, output
     const ratio = isHorizontal
         ? image.width / image.height
         : image.height / image.width;
-    const width = canvas.width * 0.65; // set the width you want
+    const width = canvas.width * 0.6; // set the width you want
     const height = isHorizontal ? width / ratio : width * ratio;
 
     ctx.drawImage(image, circle.x - (width / 2), circle.y - (height / 2), width, height);

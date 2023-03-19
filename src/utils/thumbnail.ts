@@ -15,6 +15,44 @@ const TITLE_HEIGHT = 100;
 const TITLE_BACKGROUND_COLOR = '#A8DFBE';
 const TITLE_TEXT_COLOR = '#121212';
 
+
+// Mejores iconos para ordenar en ese orden
+const BEST_BRANDS = [
+    "audi",
+    "bmw",
+    "ford",
+    "ktm",
+    "bmw-m",
+    "mercedes",
+    "peugeot",
+    "renault",
+    "seat",
+    "mini",
+    "toyota",
+    "volkswagen",
+    "volvo",
+    "yamaha",
+    "alpine",
+    "ferrari",
+    "fiat",
+    "kia",
+    "lamborghini",
+    "mazda",
+    "mitsubishi",
+    "nissan",
+    "opel",
+    "porsche",
+    "cupra",
+    "suzuki",
+    "tesla",
+    "ford-mustang",
+    "land-rover",
+    "abarth",
+    "yamaha",
+    "jeep",
+    "harley-davidson",
+]
+
 export async function createThumbnail(outputFile: string, brands: IBrand[], imagesDir: string): Promise<any> {
     const numberImages = brands.length;
     let _rows = ROWS;
@@ -24,8 +62,17 @@ export async function createThumbnail(outputFile: string, brands: IBrand[], imag
         if (_rows >= Math.ceil(numberImages / COLS)) {
             _rows = Math.ceil(numberImages / COLS);
         }else{
+            // Sort brands by best brands
+            brands = brands.sort((a, b) => {
+                const indexA = BEST_BRANDS.indexOf(a.slug);
+                const indexB = BEST_BRANDS.indexOf(b.slug);
+                if (indexA === -1 && indexB === -1) return 0;
+                if (indexA === -1) return 1;
+                if (indexB === -1) return -1;
+                return indexA - indexB;
+            })
             // No entran todas las imágenes, las podemos aleatorias
-            brands = brands.sort(() => Math.random() - 0.5);
+            // brands = brands.sort(() => Math.random() - 0.5);
         }
     } else {
         _rows = Math.ceil(numberImages / COLS);
