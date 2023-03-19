@@ -11,7 +11,7 @@ All images are included in the `/logos directory`.
 - `/logos/original` include original images
 - `/logos/rounds`include rounded images
 
-All images are defined in the `/logos/logos.json' file.
+All images are defined in the `/logos/logos.json` file.
 
 ### Example of item
 ```
