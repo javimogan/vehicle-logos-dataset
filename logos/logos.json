@@ -351,30 +351,21 @@
     }
   },
   {
+    "name": "Abt",
+    "slug": "abt",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/abt.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/abt.png",
+      "local_round": "rounds/abt.png"
+    }
+  },
+  {
     "name": "Alvis",
     "slug": "alvis",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/alvis.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/alvis.png",
       "local_round": "rounds/alvis.png"
-    }
-  },
-  {
-    "name": "Arcfox",
-    "slug": "arcfox",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/arcfox.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/arcfox.png",
-      "local_round": "rounds/arcfox.png"
-    }
-  },
-  {
-    "name": "Arrinera",
-    "slug": "arrinera",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/arrinera.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/arrinera.png",
-      "local_round": "rounds/arrinera.png"
     }
   },
   {
@@ -387,30 +378,30 @@
     }
   },
   {
-    "name": "Ascari",
-    "slug": "ascari",
+    "name": "Arcfox",
+    "slug": "arcfox",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ascari.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ascari.png",
-      "local_round": "rounds/ascari.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/arcfox.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/arcfox.png",
+      "local_round": "rounds/arcfox.png"
     }
   },
   {
-    "name": "Aspark",
-    "slug": "aspark",
+    "name": "Ariel",
+    "slug": "ariel",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/aspark.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/aspark.png",
-      "local_round": "rounds/aspark.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ariel.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ariel.png",
+      "local_round": "rounds/ariel.png"
     }
   },
   {
-    "name": "Atalanta",
-    "slug": "atalanta",
+    "name": "Arrinera",
+    "slug": "arrinera",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/atalanta.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/atalanta.png",
-      "local_round": "rounds/atalanta.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/arrinera.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/arrinera.png",
+      "local_round": "rounds/arrinera.png"
     }
   },
   {
@@ -423,12 +414,30 @@
     }
   },
   {
+    "name": "Atalanta",
+    "slug": "atalanta",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/atalanta.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/atalanta.png",
+      "local_round": "rounds/atalanta.png"
+    }
+  },
+  {
     "name": "Audi sport",
     "slug": "audi-sport",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/audi-sport.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/audi-sport.png",
       "local_round": "rounds/audi-sport.png"
+    }
+  },
+  {
+    "name": "Aspark",
+    "slug": "aspark",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/aspark.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/aspark.png",
+      "local_round": "rounds/aspark.png"
     }
   },
   {
@@ -459,111 +468,12 @@
     }
   },
   {
-    "name": "Brabus",
-    "slug": "brabus",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/brabus.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/brabus.png",
-      "local_round": "rounds/brabus.png"
-    }
-  },
-  {
-    "name": "Abt",
-    "slug": "abt",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/abt.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/abt.png",
-      "local_round": "rounds/abt.png"
-    }
-  },
-  {
-    "name": "Byton",
-    "slug": "byton",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/byton.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/byton.png",
-      "local_round": "rounds/byton.png"
-    }
-  },
-  {
-    "name": "Brammo",
-    "slug": "brammo",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/brammo.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/brammo.png",
-      "local_round": "rounds/brammo.png"
-    }
-  },
-  {
-    "name": "Camc",
-    "slug": "camc",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/camc.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/camc.png",
-      "local_round": "rounds/camc.png"
-    }
-  },
-  {
     "name": "Brooke",
     "slug": "brooke",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/brooke.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/brooke.png",
       "local_round": "rounds/brooke.png"
-    }
-  },
-  {
-    "name": "Chevrolet",
-    "slug": "chevrolet",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/chevrolet.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/chevrolet.png",
-      "local_round": "rounds/chevrolet.png"
-    }
-  },
-  {
-    "name": "Ariel",
-    "slug": "ariel",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ariel.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ariel.png",
-      "local_round": "rounds/ariel.png"
-    }
-  },
-  {
-    "name": "Corre la licorne",
-    "slug": "corre-la-licorne",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/corre-la-licorne.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/corre-la-licorne.png",
-      "local_round": "rounds/corre-la-licorne.png"
-    }
-  },
-  {
-    "name": "Daimler",
-    "slug": "daimler",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daimler.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daimler.png",
-      "local_round": "rounds/daimler.png"
-    }
-  },
-  {
-    "name": "Chrysler",
-    "slug": "chrysler",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/chrysler.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/chrysler.png",
-      "local_round": "rounds/chrysler.png"
-    }
-  },
-  {
-    "name": "Default car",
-    "slug": "default-car",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_car.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_car.png",
-      "local_round": "rounds/default_car.png"
     }
   },
   {
@@ -576,6 +486,87 @@
     }
   },
   {
+    "name": "Byton",
+    "slug": "byton",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/byton.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/byton.png",
+      "local_round": "rounds/byton.png"
+    }
+  },
+  {
+    "name": "Camc",
+    "slug": "camc",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/camc.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/camc.png",
+      "local_round": "rounds/camc.png"
+    }
+  },
+  {
+    "name": "Brammo",
+    "slug": "brammo",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/brammo.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/brammo.png",
+      "local_round": "rounds/brammo.png"
+    }
+  },
+  {
+    "name": "Ascari",
+    "slug": "ascari",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ascari.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ascari.png",
+      "local_round": "rounds/ascari.png"
+    }
+  },
+  {
+    "name": "Brabus",
+    "slug": "brabus",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/brabus.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/brabus.png",
+      "local_round": "rounds/brabus.png"
+    }
+  },
+  {
+    "name": "Chevrolet",
+    "slug": "chevrolet",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/chevrolet.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/chevrolet.png",
+      "local_round": "rounds/chevrolet.png"
+    }
+  },
+  {
+    "name": "Corre la licorne",
+    "slug": "corre-la-licorne",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/corre-la-licorne.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/corre-la-licorne.png",
+      "local_round": "rounds/corre-la-licorne.png"
+    }
+  },
+  {
+    "name": "Chrysler",
+    "slug": "chrysler",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/chrysler.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/chrysler.png",
+      "local_round": "rounds/chrysler.png"
+    }
+  },
+  {
+    "name": "Daihatsu",
+    "slug": "daihatsu",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daihatsu.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daihatsu.png",
+      "local_round": "rounds/daihatsu.png"
+    }
+  },
+  {
     "name": "Default tractor",
     "slug": "default-tractor",
     "image": {
@@ -585,12 +576,12 @@
     }
   },
   {
-    "name": "Default trailer",
-    "slug": "default-trailer",
+    "name": "Daimler",
+    "slug": "daimler",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_trailer.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_trailer.png",
-      "local_round": "rounds/default_trailer.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daimler.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daimler.png",
+      "local_round": "rounds/daimler.png"
     }
   },
   {
@@ -621,6 +612,15 @@
     }
   },
   {
+    "name": "Default motorbike",
+    "slug": "default-motorbike",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_motorbike.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_motorbike.png",
+      "local_round": "rounds/default_motorbike.png"
+    }
+  },
+  {
     "name": "Drako",
     "slug": "drako",
     "image": {
@@ -648,15 +648,6 @@
     }
   },
   {
-    "name": "Eicher",
-    "slug": "eicher",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/eicher.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/eicher.png",
-      "local_round": "rounds/eicher.png"
-    }
-  },
-  {
     "name": "Elemental",
     "slug": "elemental",
     "image": {
@@ -675,39 +666,12 @@
     }
   },
   {
-    "name": "Erf",
-    "slug": "erf",
+    "name": "Eicher",
+    "slug": "eicher",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/erf.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/erf.png",
-      "local_round": "rounds/erf.png"
-    }
-  },
-  {
-    "name": "Exeed",
-    "slug": "exeed",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/exeed.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/exeed.png",
-      "local_round": "rounds/exeed.png"
-    }
-  },
-  {
-    "name": "Default truck",
-    "slug": "default-truck",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_truck.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_truck.png",
-      "local_round": "rounds/default_truck.png"
-    }
-  },
-  {
-    "name": "Faraday future",
-    "slug": "faraday-future",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/faraday-future.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/faraday-future.png",
-      "local_round": "rounds/faraday-future.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/eicher.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/eicher.png",
+      "local_round": "rounds/eicher.png"
     }
   },
   {
@@ -720,6 +684,15 @@
     }
   },
   {
+    "name": "Default truck",
+    "slug": "default-truck",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_truck.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_truck.png",
+      "local_round": "rounds/default_truck.png"
+    }
+  },
+  {
     "name": "Fioravanti",
     "slug": "fioravanti",
     "image": {
@@ -729,30 +702,21 @@
     }
   },
   {
+    "name": "Faraday future",
+    "slug": "faraday-future",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/faraday-future.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/faraday-future.png",
+      "local_round": "rounds/faraday-future.png"
+    }
+  },
+  {
     "name": "Fso",
     "slug": "fso",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/fso.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/fso.png",
       "local_round": "rounds/fso.png"
-    }
-  },
-  {
-    "name": "Daihatsu",
-    "slug": "daihatsu",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daihatsu.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daihatsu.png",
-      "local_round": "rounds/daihatsu.png"
-    }
-  },
-  {
-    "name": "Default motorbike",
-    "slug": "default-motorbike",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_motorbike.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_motorbike.png",
-      "local_round": "rounds/default_motorbike.png"
     }
   },
   {
@@ -774,12 +738,21 @@
     }
   },
   {
-    "name": "Hennessey",
-    "slug": "hennessey",
+    "name": "Gmc",
+    "slug": "gmc",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hennessey.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hennessey.png",
-      "local_round": "rounds/hennessey.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gmc.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gmc.png",
+      "local_round": "rounds/gmc.png"
+    }
+  },
+  {
+    "name": "Default trailer",
+    "slug": "default-trailer",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_trailer.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_trailer.png",
+      "local_round": "rounds/default_trailer.png"
     }
   },
   {
@@ -801,12 +774,12 @@
     }
   },
   {
-    "name": "Ih",
-    "slug": "ih",
+    "name": "Default car",
+    "slug": "default-car",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ih.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ih.png",
-      "local_round": "rounds/ih.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/default_car.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/default_car.png",
+      "local_round": "rounds/default_car.png"
     }
   },
   {
@@ -816,6 +789,15 @@
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/isdera.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/isdera.png",
       "local_round": "rounds/isdera.png"
+    }
+  },
+  {
+    "name": "Ih",
+    "slug": "ih",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ih.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ih.png",
+      "local_round": "rounds/ih.png"
     }
   },
   {
@@ -855,15 +837,6 @@
     }
   },
   {
-    "name": "King long",
-    "slug": "king-long",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/king-long.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/king-long.png",
-      "local_round": "rounds/king-long.png"
-    }
-  },
-  {
     "name": "Lexus",
     "slug": "lexus",
     "image": {
@@ -882,15 +855,6 @@
     }
   },
   {
-    "name": "Lincoln",
-    "slug": "lincoln",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lincoln.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lincoln.png",
-      "local_round": "rounds/lincoln.png"
-    }
-  },
-  {
     "name": "Lifan",
     "slug": "lifan",
     "image": {
@@ -900,12 +864,48 @@
     }
   },
   {
+    "name": "Lincoln",
+    "slug": "lincoln",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lincoln.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lincoln.png",
+      "local_round": "rounds/lincoln.png"
+    }
+  },
+  {
+    "name": "Lordstown",
+    "slug": "lordstown",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lordstown.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lordstown.png",
+      "local_round": "rounds/lordstown.png"
+    }
+  },
+  {
     "name": "Lynk and co",
     "slug": "lynk-and-co",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lynk-and-co.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lynk-and-co.png",
       "local_round": "rounds/lynk-and-co.png"
+    }
+  },
+  {
+    "name": "Mack",
+    "slug": "mack",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mack.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mack.png",
+      "local_round": "rounds/mack.png"
+    }
+  },
+  {
+    "name": "Mahindra",
+    "slug": "mahindra",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mahindra.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mahindra.png",
+      "local_round": "rounds/mahindra.png"
     }
   },
   {
@@ -963,21 +963,21 @@
     }
   },
   {
-    "name": "Mahindra",
-    "slug": "mahindra",
+    "name": "Hennessey",
+    "slug": "hennessey",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mahindra.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mahindra.png",
-      "local_round": "rounds/mahindra.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hennessey.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hennessey.png",
+      "local_round": "rounds/hennessey.png"
     }
   },
   {
-    "name": "Mk",
-    "slug": "mk",
+    "name": "Mosler",
+    "slug": "mosler",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mk.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mk.png",
-      "local_round": "rounds/mk.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mosler.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mosler.png",
+      "local_round": "rounds/mosler.png"
     }
   },
   {
@@ -999,21 +999,30 @@
     }
   },
   {
-    "name": "Nikola",
-    "slug": "nikola",
+    "name": "King long",
+    "slug": "king-long",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/nikola.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/nikola.png",
-      "local_round": "rounds/nikola.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/king-long.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/king-long.png",
+      "local_round": "rounds/king-long.png"
     }
   },
   {
-    "name": "Nissan nismo",
-    "slug": "nissan-nismo",
+    "name": "Nio",
+    "slug": "nio",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/nissan-nismo.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/nissan-nismo.png",
-      "local_round": "rounds/nissan-nismo.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/nio.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/nio.png",
+      "local_round": "rounds/nio.png"
+    }
+  },
+  {
+    "name": "Erf",
+    "slug": "erf",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/erf.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/erf.png",
+      "local_round": "rounds/erf.png"
     }
   },
   {
@@ -1023,15 +1032,6 @@
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/oltcit.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/oltcit.png",
       "local_round": "rounds/oltcit.png"
-    }
-  },
-  {
-    "name": "Mosler",
-    "slug": "mosler",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mosler.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mosler.png",
-      "local_round": "rounds/mosler.png"
     }
   },
   {
@@ -1053,12 +1053,12 @@
     }
   },
   {
-    "name": "Nio",
-    "slug": "nio",
+    "name": "Premier",
+    "slug": "premier",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/nio.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/nio.png",
-      "local_round": "rounds/nio.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/premier.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/premier.png",
+      "local_round": "rounds/premier.png"
     }
   },
   {
@@ -1071,12 +1071,21 @@
     }
   },
   {
-    "name": "Premier",
-    "slug": "premier",
+    "name": "Nikola",
+    "slug": "nikola",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/premier.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/premier.png",
-      "local_round": "rounds/premier.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/nikola.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/nikola.png",
+      "local_round": "rounds/nikola.png"
+    }
+  },
+  {
+    "name": "Rezvani",
+    "slug": "rezvani",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rezvani.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rezvani.png",
+      "local_round": "rounds/rezvani.png"
     }
   },
   {
@@ -1116,39 +1125,12 @@
     }
   },
   {
-    "name": "Rezvani",
-    "slug": "rezvani",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rezvani.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rezvani.png",
-      "local_round": "rounds/rezvani.png"
-    }
-  },
-  {
     "name": "Setra",
     "slug": "setra",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/setra.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/setra.png",
       "local_round": "rounds/setra.png"
-    }
-  },
-  {
-    "name": "Singulato",
-    "slug": "singulato",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/singulato.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/singulato.png",
-      "local_round": "rounds/singulato.png"
-    }
-  },
-  {
-    "name": "Mack",
-    "slug": "mack",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mack.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mack.png",
-      "local_round": "rounds/mack.png"
     }
   },
   {
@@ -1161,12 +1143,21 @@
     }
   },
   {
-    "name": "Lordstown",
-    "slug": "lordstown",
+    "name": "Singulato",
+    "slug": "singulato",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lordstown.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lordstown.png",
-      "local_round": "rounds/lordstown.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/singulato.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/singulato.png",
+      "local_round": "rounds/singulato.png"
+    }
+  },
+  {
+    "name": "Sinotruk",
+    "slug": "sinotruk",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/sinotruk.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/sinotruk.png",
+      "local_round": "rounds/sinotruk.png"
     }
   },
   {
@@ -1224,12 +1215,12 @@
     }
   },
   {
-    "name": "Xpeng",
-    "slug": "xpeng",
+    "name": "Wey",
+    "slug": "wey",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/xpeng.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/xpeng.png",
-      "local_round": "rounds/xpeng.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wey.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wey.png",
+      "local_round": "rounds/wey.png"
     }
   },
   {
@@ -1239,6 +1230,15 @@
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/workhorse.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/workhorse.png",
       "local_round": "rounds/workhorse.png"
+    }
+  },
+  {
+    "name": "Xpeng",
+    "slug": "xpeng",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/xpeng.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/xpeng.png",
+      "local_round": "rounds/xpeng.png"
     }
   },
   {
@@ -1269,39 +1269,30 @@
     }
   },
   {
-    "name": "Sinotruk",
-    "slug": "sinotruk",
+    "name": "Mk",
+    "slug": "mk",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/sinotruk.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/sinotruk.png",
-      "local_round": "rounds/sinotruk.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mk.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mk.png",
+      "local_round": "rounds/mk.png"
     }
   },
   {
-    "name": "Gmc",
-    "slug": "gmc",
+    "name": "Exeed",
+    "slug": "exeed",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gmc.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gmc.png",
-      "local_round": "rounds/gmc.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/exeed.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/exeed.png",
+      "local_round": "rounds/exeed.png"
     }
   },
   {
-    "name": "Wey",
-    "slug": "wey",
+    "name": "Nissan nismo",
+    "slug": "nissan-nismo",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wey.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wey.png",
-      "local_round": "rounds/wey.png"
-    }
-  },
-  {
-    "name": "Alta",
-    "slug": "alta",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/alta.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/alta.png",
-      "local_round": "rounds/alta.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/nissan-nismo.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/nissan-nismo.png",
+      "local_round": "rounds/nissan-nismo.png"
     }
   },
   {
@@ -1311,6 +1302,15 @@
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/9ff.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/9ff.png",
       "local_round": "rounds/9ff.png"
+    }
+  },
+  {
+    "name": "Apollo",
+    "slug": "apollo",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/apollo.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/apollo.png",
+      "local_round": "rounds/apollo.png"
     }
   },
   {
@@ -1332,48 +1332,30 @@
     }
   },
   {
-    "name": "Apollo",
-    "slug": "apollo",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/apollo.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/apollo.png",
-      "local_round": "rounds/apollo.png"
-    }
-  },
-  {
-    "name": "Abbott detroit",
-    "slug": "abbott-detroit",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/abbott-detroit.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/abbott-detroit.png",
-      "local_round": "rounds/abbott-detroit.png"
-    }
-  },
-  {
-    "name": "Aston martin",
-    "slug": "aston-martin",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/aston-martin.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/aston-martin.png",
-      "local_round": "rounds/aston-martin.png"
-    }
-  },
-  {
-    "name": "Autobianchi",
-    "slug": "autobianchi",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/autobianchi.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/autobianchi.png",
-      "local_round": "rounds/autobianchi.png"
-    }
-  },
-  {
     "name": "Baic motor",
     "slug": "baic-motor",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/baic-motor.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/baic-motor.png",
       "local_round": "rounds/baic-motor.png"
+    }
+  },
+  {
+    "name": "Alta",
+    "slug": "alta",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/alta.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/alta.png",
+      "local_round": "rounds/alta.png"
+    }
+  },
+  {
+    "name": "Axon",
+    "slug": "axon",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/axon.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/axon.png",
+      "local_round": "rounds/axon.png"
     }
   },
   {
@@ -1386,21 +1368,12 @@
     }
   },
   {
-    "name": "Bertone",
-    "slug": "bertone",
+    "name": "Brilliance",
+    "slug": "brilliance",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/bertone.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/bertone.png",
-      "local_round": "rounds/bertone.png"
-    }
-  },
-  {
-    "name": "Axon",
-    "slug": "axon",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/axon.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/axon.png",
-      "local_round": "rounds/axon.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/brilliance.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/brilliance.png",
+      "local_round": "rounds/brilliance.png"
     }
   },
   {
@@ -1422,48 +1395,21 @@
     }
   },
   {
-    "name": "Brilliance",
-    "slug": "brilliance",
+    "name": "Aston martin",
+    "slug": "aston-martin",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/brilliance.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/brilliance.png",
-      "local_round": "rounds/brilliance.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/aston-martin.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/aston-martin.png",
+      "local_round": "rounds/aston-martin.png"
     }
   },
   {
-    "name": "Changan",
-    "slug": "changan",
+    "name": "Bertone",
+    "slug": "bertone",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/changan.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/changan.png",
-      "local_round": "rounds/changan.png"
-    }
-  },
-  {
-    "name": "Changfeng",
-    "slug": "changfeng",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/changfeng.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/changfeng.png",
-      "local_round": "rounds/changfeng.png"
-    }
-  },
-  {
-    "name": "Chery",
-    "slug": "chery",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/chery.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/chery.png",
-      "local_round": "rounds/chery.png"
-    }
-  },
-  {
-    "name": "Cizeta",
-    "slug": "cizeta",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cizeta.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cizeta.png",
-      "local_round": "rounds/cizeta.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/bertone.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/bertone.png",
+      "local_round": "rounds/bertone.png"
     }
   },
   {
@@ -1476,12 +1422,48 @@
     }
   },
   {
-    "name": "Cole",
-    "slug": "cole",
+    "name": "Changan",
+    "slug": "changan",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cole.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cole.png",
-      "local_round": "rounds/cole.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/changan.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/changan.png",
+      "local_round": "rounds/changan.png"
+    }
+  },
+  {
+    "name": "Abbott detroit",
+    "slug": "abbott-detroit",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/abbott-detroit.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/abbott-detroit.png",
+      "local_round": "rounds/abbott-detroit.png"
+    }
+  },
+  {
+    "name": "Chery",
+    "slug": "chery",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/chery.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/chery.png",
+      "local_round": "rounds/chery.png"
+    }
+  },
+  {
+    "name": "Changfeng",
+    "slug": "changfeng",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/changfeng.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/changfeng.png",
+      "local_round": "rounds/changfeng.png"
+    }
+  },
+  {
+    "name": "Daf",
+    "slug": "daf",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daf.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daf.png",
+      "local_round": "rounds/daf.png"
     }
   },
   {
@@ -1503,12 +1485,21 @@
     }
   },
   {
-    "name": "Daf",
-    "slug": "daf",
+    "name": "Cizeta",
+    "slug": "cizeta",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daf.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daf.png",
-      "local_round": "rounds/daf.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cizeta.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cizeta.png",
+      "local_round": "rounds/cizeta.png"
+    }
+  },
+  {
+    "name": "Cole",
+    "slug": "cole",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cole.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cole.png",
+      "local_round": "rounds/cole.png"
     }
   },
   {
@@ -1518,6 +1509,15 @@
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/diatto.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/diatto.png",
       "local_round": "rounds/diatto.png"
+    }
+  },
+  {
+    "name": "Dodge viper",
+    "slug": "dodge-viper",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dodge-viper.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dodge-viper.png",
+      "local_round": "rounds/dodge-viper.png"
     }
   },
   {
@@ -1539,12 +1539,12 @@
     }
   },
   {
-    "name": "Dodge viper",
-    "slug": "dodge-viper",
+    "name": "Dongfeng",
+    "slug": "dongfeng",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dodge-viper.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dodge-viper.png",
-      "local_round": "rounds/dodge-viper.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dongfeng.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dongfeng.png",
+      "local_round": "rounds/dongfeng.png"
     }
   },
   {
@@ -1557,39 +1557,12 @@
     }
   },
   {
-    "name": "Franklin",
-    "slug": "franklin",
+    "name": "Autobianchi",
+    "slug": "autobianchi",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/franklin.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/franklin.png",
-      "local_round": "rounds/franklin.png"
-    }
-  },
-  {
-    "name": "Foden",
-    "slug": "foden",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/foden.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/foden.png",
-      "local_round": "rounds/foden.png"
-    }
-  },
-  {
-    "name": "Gac group",
-    "slug": "gac-group",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gac-group.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gac-group.png",
-      "local_round": "rounds/gac-group.png"
-    }
-  },
-  {
-    "name": "Dongfeng",
-    "slug": "dongfeng",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dongfeng.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dongfeng.png",
-      "local_round": "rounds/dongfeng.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/autobianchi.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/autobianchi.png",
+      "local_round": "rounds/autobianchi.png"
     }
   },
   {
@@ -1602,60 +1575,6 @@
     }
   },
   {
-    "name": "Freightliner",
-    "slug": "freightliner",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/freightliner.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/freightliner.png",
-      "local_round": "rounds/freightliner.png"
-    }
-  },
-  {
-    "name": "Grinnall",
-    "slug": "grinnall",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/grinnall.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/grinnall.png",
-      "local_round": "rounds/grinnall.png"
-    }
-  },
-  {
-    "name": "Haima",
-    "slug": "haima",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/haima.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/haima.png",
-      "local_round": "rounds/haima.png"
-    }
-  },
-  {
-    "name": "Haval",
-    "slug": "haval",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/haval.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/haval.png",
-      "local_round": "rounds/haval.png"
-    }
-  },
-  {
-    "name": "Higer",
-    "slug": "higer",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/higer.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/higer.png",
-      "local_round": "rounds/higer.png"
-    }
-  },
-  {
-    "name": "Hispano suiza",
-    "slug": "hispano-suiza",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hispano-suiza.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hispano-suiza.png",
-      "local_round": "rounds/hispano-suiza.png"
-    }
-  },
-  {
     "name": "Foton",
     "slug": "foton",
     "image": {
@@ -1665,21 +1584,21 @@
     }
   },
   {
-    "name": "Hongyan",
-    "slug": "hongyan",
+    "name": "Franklin",
+    "slug": "franklin",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hongyan.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hongyan.png",
-      "local_round": "rounds/hongyan.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/franklin.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/franklin.png",
+      "local_round": "rounds/franklin.png"
     }
   },
   {
-    "name": "Hsv",
-    "slug": "hsv",
+    "name": "Gac group",
+    "slug": "gac-group",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hsv.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hsv.png",
-      "local_round": "rounds/hsv.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gac-group.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gac-group.png",
+      "local_round": "rounds/gac-group.png"
     }
   },
   {
@@ -1692,12 +1611,111 @@
     }
   },
   {
+    "name": "Foden",
+    "slug": "foden",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/foden.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/foden.png",
+      "local_round": "rounds/foden.png"
+    }
+  },
+  {
+    "name": "General motors",
+    "slug": "general-motors",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/general-motors.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/general-motors.png",
+      "local_round": "rounds/general-motors.png"
+    }
+  },
+  {
+    "name": "Genesis",
+    "slug": "genesis",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/genesis.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/genesis.png",
+      "local_round": "rounds/genesis.png"
+    }
+  },
+  {
+    "name": "Gonow",
+    "slug": "gonow",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gonow.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gonow.png",
+      "local_round": "rounds/gonow.png"
+    }
+  },
+  {
+    "name": "Haima",
+    "slug": "haima",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/haima.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/haima.png",
+      "local_round": "rounds/haima.png"
+    }
+  },
+  {
+    "name": "Higer",
+    "slug": "higer",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/higer.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/higer.png",
+      "local_round": "rounds/higer.png"
+    }
+  },
+  {
+    "name": "Freightliner",
+    "slug": "freightliner",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/freightliner.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/freightliner.png",
+      "local_round": "rounds/freightliner.png"
+    }
+  },
+  {
+    "name": "Hispano suiza",
+    "slug": "hispano-suiza",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hispano-suiza.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hispano-suiza.png",
+      "local_round": "rounds/hispano-suiza.png"
+    }
+  },
+  {
+    "name": "Hongyan",
+    "slug": "hongyan",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hongyan.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hongyan.png",
+      "local_round": "rounds/hongyan.png"
+    }
+  },
+  {
+    "name": "Haval",
+    "slug": "haval",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/haval.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/haval.png",
+      "local_round": "rounds/haval.png"
+    }
+  },
+  {
     "name": "Infiniti",
     "slug": "infiniti",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/infiniti.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/infiniti.png",
       "local_round": "rounds/infiniti.png"
+    }
+  },
+  {
+    "name": "Grinnall",
+    "slug": "grinnall",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/grinnall.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/grinnall.png",
+      "local_round": "rounds/grinnall.png"
     }
   },
   {
@@ -1710,30 +1728,21 @@
     }
   },
   {
-    "name": "Jba motors",
-    "slug": "jba-motors",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jba-motors.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jba-motors.png",
-      "local_round": "rounds/jba-motors.png"
-    }
-  },
-  {
-    "name": "Jac",
-    "slug": "jac",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jac.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jac.png",
-      "local_round": "rounds/jac.png"
-    }
-  },
-  {
     "name": "Intermeccanica",
     "slug": "intermeccanica",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/intermeccanica.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/intermeccanica.png",
       "local_round": "rounds/intermeccanica.png"
+    }
+  },
+  {
+    "name": "Hsv",
+    "slug": "hsv",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hsv.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hsv.png",
+      "local_round": "rounds/hsv.png"
     }
   },
   {
@@ -1755,48 +1764,12 @@
     }
   },
   {
-    "name": "Genesis",
-    "slug": "genesis",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/genesis.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/genesis.png",
-      "local_round": "rounds/genesis.png"
-    }
-  },
-  {
     "name": "Keating",
     "slug": "keating",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/keating.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/keating.png",
       "local_round": "rounds/keating.png"
-    }
-  },
-  {
-    "name": "Laraki",
-    "slug": "laraki",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/laraki.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/laraki.png",
-      "local_round": "rounds/laraki.png"
-    }
-  },
-  {
-    "name": "Lada",
-    "slug": "lada",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lada.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lada.png",
-      "local_round": "rounds/lada.png"
-    }
-  },
-  {
-    "name": "Levc",
-    "slug": "levc",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/levc.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/levc.png",
-      "local_round": "rounds/levc.png"
     }
   },
   {
@@ -1809,39 +1782,12 @@
     }
   },
   {
-    "name": "General motors",
-    "slug": "general-motors",
+    "name": "Jba motors",
+    "slug": "jba-motors",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/general-motors.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/general-motors.png",
-      "local_round": "rounds/general-motors.png"
-    }
-  },
-  {
-    "name": "Ligier",
-    "slug": "ligier",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ligier.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ligier.png",
-      "local_round": "rounds/ligier.png"
-    }
-  },
-  {
-    "name": "Leyland",
-    "slug": "leyland",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/leyland.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/leyland.png",
-      "local_round": "rounds/leyland.png"
-    }
-  },
-  {
-    "name": "Lotus",
-    "slug": "lotus",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lotus.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lotus.png",
-      "local_round": "rounds/lotus.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jba-motors.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jba-motors.png",
+      "local_round": "rounds/jba-motors.png"
     }
   },
   {
@@ -1854,12 +1800,30 @@
     }
   },
   {
-    "name": "Lloyd",
-    "slug": "lloyd",
+    "name": "Lada",
+    "slug": "lada",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lloyd.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lloyd.png",
-      "local_round": "rounds/lloyd.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lada.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lada.png",
+      "local_round": "rounds/lada.png"
+    }
+  },
+  {
+    "name": "Laraki",
+    "slug": "laraki",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/laraki.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/laraki.png",
+      "local_round": "rounds/laraki.png"
+    }
+  },
+  {
+    "name": "Levc",
+    "slug": "levc",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/levc.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/levc.png",
+      "local_round": "rounds/levc.png"
     }
   },
   {
@@ -1872,12 +1836,30 @@
     }
   },
   {
-    "name": "Man",
-    "slug": "man",
+    "name": "Leyland",
+    "slug": "leyland",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/man.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/man.png",
-      "local_round": "rounds/man.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/leyland.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/leyland.png",
+      "local_round": "rounds/leyland.png"
+    }
+  },
+  {
+    "name": "Ligier",
+    "slug": "ligier",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ligier.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ligier.png",
+      "local_round": "rounds/ligier.png"
+    }
+  },
+  {
+    "name": "Lotus",
+    "slug": "lotus",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lotus.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lotus.png",
+      "local_round": "rounds/lotus.png"
     }
   },
   {
@@ -1899,21 +1881,21 @@
     }
   },
   {
+    "name": "Lloyd",
+    "slug": "lloyd",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lloyd.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lloyd.png",
+      "local_round": "rounds/lloyd.png"
+    }
+  },
+  {
     "name": "Maybach",
     "slug": "maybach",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/maybach.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/maybach.png",
       "local_round": "rounds/maybach.png"
-    }
-  },
-  {
-    "name": "Jaguar",
-    "slug": "jaguar",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jaguar.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jaguar.png",
-      "local_round": "rounds/jaguar.png"
     }
   },
   {
@@ -1926,12 +1908,12 @@
     }
   },
   {
-    "name": "Morgan",
-    "slug": "morgan",
+    "name": "Merkur",
+    "slug": "merkur",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/morgan.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/morgan.png",
-      "local_round": "rounds/morgan.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/merkur.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/merkur.png",
+      "local_round": "rounds/merkur.png"
     }
   },
   {
@@ -1941,15 +1923,6 @@
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mitsuoka.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mitsuoka.png",
       "local_round": "rounds/mitsuoka.png"
-    }
-  },
-  {
-    "name": "Pegaso",
-    "slug": "pegaso",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/pegaso.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/pegaso.png",
-      "local_round": "rounds/pegaso.png"
     }
   },
   {
@@ -1980,30 +1953,57 @@
     }
   },
   {
-    "name": "Praga",
-    "slug": "praga",
+    "name": "Morgan",
+    "slug": "morgan",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/praga.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/praga.png",
-      "local_round": "rounds/praga.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/morgan.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/morgan.png",
+      "local_round": "rounds/morgan.png"
     }
   },
   {
-    "name": "Radical",
-    "slug": "radical",
+    "name": "Jaguar",
+    "slug": "jaguar",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/radical.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/radical.png",
-      "local_round": "rounds/radical.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jaguar.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jaguar.png",
+      "local_round": "rounds/jaguar.png"
     }
   },
   {
-    "name": "Ranz",
-    "slug": "ranz",
+    "name": "Jac",
+    "slug": "jac",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ranz.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ranz.png",
-      "local_round": "rounds/ranz.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jac.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jac.png",
+      "local_round": "rounds/jac.png"
+    }
+  },
+  {
+    "name": "Man",
+    "slug": "man",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/man.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/man.png",
+      "local_round": "rounds/man.png"
+    }
+  },
+  {
+    "name": "Pierce arrow",
+    "slug": "pierce-arrow",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/pierce-arrow.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/pierce-arrow.png",
+      "local_round": "rounds/pierce-arrow.png"
+    }
+  },
+  {
+    "name": "Pegaso",
+    "slug": "pegaso",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/pegaso.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/pegaso.png",
+      "local_round": "rounds/pegaso.png"
     }
   },
   {
@@ -2025,6 +2025,51 @@
     }
   },
   {
+    "name": "Radical",
+    "slug": "radical",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/radical.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/radical.png",
+      "local_round": "rounds/radical.png"
+    }
+  },
+  {
+    "name": "Praga",
+    "slug": "praga",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/praga.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/praga.png",
+      "local_round": "rounds/praga.png"
+    }
+  },
+  {
+    "name": "Ranz",
+    "slug": "ranz",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ranz.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ranz.png",
+      "local_round": "rounds/ranz.png"
+    }
+  },
+  {
+    "name": "Renault samsung",
+    "slug": "renault-samsung",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/renault-samsung.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/renault-samsung.png",
+      "local_round": "rounds/renault-samsung.png"
+    }
+  },
+  {
+    "name": "Rambler",
+    "slug": "rambler",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rambler.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rambler.png",
+      "local_round": "rounds/rambler.png"
+    }
+  },
+  {
     "name": "Rolls royce",
     "slug": "rolls-royce",
     "image": {
@@ -2043,48 +2088,12 @@
     }
   },
   {
-    "name": "Pierce arrow",
-    "slug": "pierce-arrow",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/pierce-arrow.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/pierce-arrow.png",
-      "local_round": "rounds/pierce-arrow.png"
-    }
-  },
-  {
     "name": "Saipa",
     "slug": "saipa",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/saipa.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/saipa.png",
       "local_round": "rounds/saipa.png"
-    }
-  },
-  {
-    "name": "Rambler",
-    "slug": "rambler",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rambler.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rambler.png",
-      "local_round": "rounds/rambler.png"
-    }
-  },
-  {
-    "name": "Scion",
-    "slug": "scion",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/scion.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/scion.png",
-      "local_round": "rounds/scion.png"
-    }
-  },
-  {
-    "name": "Merkur",
-    "slug": "merkur",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/merkur.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/merkur.png",
-      "local_round": "rounds/merkur.png"
     }
   },
   {
@@ -2106,39 +2115,21 @@
     }
   },
   {
-    "name": "Skoda",
-    "slug": "skoda",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/skoda.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/skoda.png",
-      "local_round": "rounds/skoda.png"
-    }
-  },
-  {
-    "name": "Spirra",
-    "slug": "spirra",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/spirra.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/spirra.png",
-      "local_round": "rounds/spirra.png"
-    }
-  },
-  {
-    "name": "Renault samsung",
-    "slug": "renault-samsung",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/renault-samsung.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/renault-samsung.png",
-      "local_round": "rounds/renault-samsung.png"
-    }
-  },
-  {
     "name": "Scania",
     "slug": "scania",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/scania.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/scania.png",
       "local_round": "rounds/scania.png"
+    }
+  },
+  {
+    "name": "Scion",
+    "slug": "scion",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/scion.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/scion.png",
+      "local_round": "rounds/scion.png"
     }
   },
   {
@@ -2151,21 +2142,12 @@
     }
   },
   {
-    "name": "Ssangyong",
-    "slug": "ssangyong",
+    "name": "Skoda",
+    "slug": "skoda",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ssangyong.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ssangyong.png",
-      "local_round": "rounds/ssangyong.png"
-    }
-  },
-  {
-    "name": "Triumph",
-    "slug": "triumph",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/triumph.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/triumph.png",
-      "local_round": "rounds/triumph.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/skoda.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/skoda.png",
+      "local_round": "rounds/skoda.png"
     }
   },
   {
@@ -2178,12 +2160,12 @@
     }
   },
   {
-    "name": "Venturi",
-    "slug": "venturi",
+    "name": "Ssangyong",
+    "slug": "ssangyong",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/venturi.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/venturi.png",
-      "local_round": "rounds/venturi.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ssangyong.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ssangyong.png",
+      "local_round": "rounds/ssangyong.png"
     }
   },
   {
@@ -2205,57 +2187,21 @@
     }
   },
   {
-    "name": "Weltmeister",
-    "slug": "weltmeister",
+    "name": "Spirra",
+    "slug": "spirra",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/weltmeister.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/weltmeister.png",
-      "local_round": "rounds/weltmeister.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/spirra.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/spirra.png",
+      "local_round": "rounds/spirra.png"
     }
   },
   {
-    "name": "Uaz",
-    "slug": "uaz",
+    "name": "Triumph",
+    "slug": "triumph",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/uaz.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/uaz.png",
-      "local_round": "rounds/uaz.png"
-    }
-  },
-  {
-    "name": "Wanderer",
-    "slug": "wanderer",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wanderer.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wanderer.png",
-      "local_round": "rounds/wanderer.png"
-    }
-  },
-  {
-    "name": "Zaz",
-    "slug": "zaz",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zaz.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zaz.png",
-      "local_round": "rounds/zaz.png"
-    }
-  },
-  {
-    "name": "Wartburg",
-    "slug": "wartburg",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wartburg.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wartburg.png",
-      "local_round": "rounds/wartburg.png"
-    }
-  },
-  {
-    "name": "Zotye",
-    "slug": "zotye",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zotye.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zotye.png",
-      "local_round": "rounds/zotye.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/triumph.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/triumph.png",
+      "local_round": "rounds/triumph.png"
     }
   },
   {
@@ -2268,12 +2214,21 @@
     }
   },
   {
-    "name": "Gonow",
-    "slug": "gonow",
+    "name": "Uaz",
+    "slug": "uaz",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gonow.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gonow.png",
-      "local_round": "rounds/gonow.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/uaz.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/uaz.png",
+      "local_round": "rounds/uaz.png"
+    }
+  },
+  {
+    "name": "Venturi",
+    "slug": "venturi",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/venturi.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/venturi.png",
+      "local_round": "rounds/venturi.png"
     }
   },
   {
@@ -2286,138 +2241,57 @@
     }
   },
   {
+    "name": "Wanderer",
+    "slug": "wanderer",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wanderer.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wanderer.png",
+      "local_round": "rounds/wanderer.png"
+    }
+  },
+  {
+    "name": "Wartburg",
+    "slug": "wartburg",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wartburg.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wartburg.png",
+      "local_round": "rounds/wartburg.png"
+    }
+  },
+  {
+    "name": "Weltmeister",
+    "slug": "weltmeister",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/weltmeister.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/weltmeister.png",
+      "local_round": "rounds/weltmeister.png"
+    }
+  },
+  {
+    "name": "Zaz",
+    "slug": "zaz",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zaz.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zaz.png",
+      "local_round": "rounds/zaz.png"
+    }
+  },
+  {
+    "name": "Zotye",
+    "slug": "zotye",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zotye.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zotye.png",
+      "local_round": "rounds/zotye.png"
+    }
+  },
+  {
     "name": "Aixam",
     "slug": "aixam",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/aixam.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/aixam.png",
       "local_round": "rounds/aixam.png"
-    }
-  },
-  {
-    "name": "Artega",
-    "slug": "artega",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/artega.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/artega.png",
-      "local_round": "rounds/artega.png"
-    }
-  },
-  {
-    "name": "Berkeley",
-    "slug": "berkeley",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/berkeley.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/berkeley.png",
-      "local_round": "rounds/berkeley.png"
-    }
-  },
-  {
-    "name": "Autobacs",
-    "slug": "autobacs",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/autobacs.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/autobacs.png",
-      "local_round": "rounds/autobacs.png"
-    }
-  },
-  {
-    "name": "Aro",
-    "slug": "aro",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/aro.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/aro.png",
-      "local_round": "rounds/aro.png"
-    }
-  },
-  {
-    "name": "Bharatbenz",
-    "slug": "bharatbenz",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/bharatbenz.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/bharatbenz.png",
-      "local_round": "rounds/bharatbenz.png"
-    }
-  },
-  {
-    "name": "Borgward",
-    "slug": "borgward",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/borgward.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/borgward.png",
-      "local_round": "rounds/borgward.png"
-    }
-  },
-  {
-    "name": "Carlsson",
-    "slug": "carlsson",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/carlsson.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/carlsson.png",
-      "local_round": "rounds/carlsson.png"
-    }
-  },
-  {
-    "name": "Daewoo",
-    "slug": "daewoo",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daewoo.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daewoo.png",
-      "local_round": "rounds/daewoo.png"
-    }
-  },
-  {
-    "name": "Cadillac",
-    "slug": "cadillac",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cadillac.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cadillac.png",
-      "local_round": "rounds/cadillac.png"
-    }
-  },
-  {
-    "name": "Dayun",
-    "slug": "dayun",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dayun.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dayun.png",
-      "local_round": "rounds/dayun.png"
-    }
-  },
-  {
-    "name": "Delage",
-    "slug": "delage",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/delage.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/delage.png",
-      "local_round": "rounds/delage.png"
-    }
-  },
-  {
-    "name": "Donkervoort",
-    "slug": "donkervoort",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/donkervoort.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/donkervoort.png",
-      "local_round": "rounds/donkervoort.png"
-    }
-  },
-  {
-    "name": "Eagle",
-    "slug": "eagle",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/eagle.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/eagle.png",
-      "local_round": "rounds/eagle.png"
-    }
-  },
-  {
-    "name": "Duesenberg",
-    "slug": "duesenberg",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/duesenberg.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/duesenberg.png",
-      "local_round": "rounds/duesenberg.png"
     }
   },
   {
@@ -2430,75 +2304,111 @@
     }
   },
   {
-    "name": "Eterniti",
-    "slug": "eterniti",
+    "name": "Autobacs",
+    "slug": "autobacs",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/eterniti.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/eterniti.png",
-      "local_round": "rounds/eterniti.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/autobacs.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/autobacs.png",
+      "local_round": "rounds/autobacs.png"
     }
   },
   {
-    "name": "Geely",
-    "slug": "geely",
+    "name": "Borgward",
+    "slug": "borgward",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/geely.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/geely.png",
-      "local_round": "rounds/geely.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/borgward.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/borgward.png",
+      "local_round": "rounds/borgward.png"
     }
   },
   {
-    "name": "Fpv",
-    "slug": "fpv",
+    "name": "Bharatbenz",
+    "slug": "bharatbenz",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/fpv.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/fpv.png",
-      "local_round": "rounds/fpv.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/bharatbenz.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/bharatbenz.png",
+      "local_round": "rounds/bharatbenz.png"
     }
   },
   {
-    "name": "Golden dragon",
-    "slug": "golden-dragon",
+    "name": "Cadillac",
+    "slug": "cadillac",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/golden-dragon.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/golden-dragon.png",
-      "local_round": "rounds/golden-dragon.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cadillac.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cadillac.png",
+      "local_round": "rounds/cadillac.png"
     }
   },
   {
-    "name": "Great wall",
-    "slug": "great-wall",
+    "name": "Carlsson",
+    "slug": "carlsson",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/great-wall.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/great-wall.png",
-      "local_round": "rounds/great-wall.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/carlsson.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/carlsson.png",
+      "local_round": "rounds/carlsson.png"
     }
   },
   {
-    "name": "Ginetta",
-    "slug": "ginetta",
+    "name": "Aro",
+    "slug": "aro",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ginetta.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ginetta.png",
-      "local_round": "rounds/ginetta.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/aro.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/aro.png",
+      "local_round": "rounds/aro.png"
     }
   },
   {
-    "name": "Hafei",
-    "slug": "hafei",
+    "name": "Daewoo",
+    "slug": "daewoo",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hafei.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hafei.png",
-      "local_round": "rounds/hafei.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/daewoo.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/daewoo.png",
+      "local_round": "rounds/daewoo.png"
     }
   },
   {
-    "name": "Gaz",
-    "slug": "gaz",
+    "name": "Delage",
+    "slug": "delage",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gaz.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gaz.png",
-      "local_round": "rounds/gaz.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/delage.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/delage.png",
+      "local_round": "rounds/delage.png"
+    }
+  },
+  {
+    "name": "Duesenberg",
+    "slug": "duesenberg",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/duesenberg.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/duesenberg.png",
+      "local_round": "rounds/duesenberg.png"
+    }
+  },
+  {
+    "name": "Eagle",
+    "slug": "eagle",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/eagle.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/eagle.png",
+      "local_round": "rounds/eagle.png"
+    }
+  },
+  {
+    "name": "Donkervoort",
+    "slug": "donkervoort",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/donkervoort.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/donkervoort.png",
+      "local_round": "rounds/donkervoort.png"
+    }
+  },
+  {
+    "name": "Facel vega",
+    "slug": "facel-vega",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/facel-vega.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/facel-vega.png",
+      "local_round": "rounds/facel-vega.png"
     }
   },
   {
@@ -2511,21 +2421,21 @@
     }
   },
   {
-    "name": "Hillman",
-    "slug": "hillman",
+    "name": "Fpv",
+    "slug": "fpv",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hillman.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hillman.png",
-      "local_round": "rounds/hillman.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/fpv.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/fpv.png",
+      "local_round": "rounds/fpv.png"
     }
   },
   {
-    "name": "Hongqi",
-    "slug": "hongqi",
+    "name": "Geely",
+    "slug": "geely",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hongqi.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hongqi.png",
-      "local_round": "rounds/hongqi.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/geely.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/geely.png",
+      "local_round": "rounds/geely.png"
     }
   },
   {
@@ -2538,12 +2448,84 @@
     }
   },
   {
-    "name": "Hino",
-    "slug": "hino",
+    "name": "Gaz",
+    "slug": "gaz",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hino.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hino.png",
-      "local_round": "rounds/hino.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gaz.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gaz.png",
+      "local_round": "rounds/gaz.png"
+    }
+  },
+  {
+    "name": "Gillet",
+    "slug": "gillet",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gillet.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gillet.png",
+      "local_round": "rounds/gillet.png"
+    }
+  },
+  {
+    "name": "Berkeley",
+    "slug": "berkeley",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/berkeley.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/berkeley.png",
+      "local_round": "rounds/berkeley.png"
+    }
+  },
+  {
+    "name": "Golden dragon",
+    "slug": "golden-dragon",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/golden-dragon.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/golden-dragon.png",
+      "local_round": "rounds/golden-dragon.png"
+    }
+  },
+  {
+    "name": "Ginetta",
+    "slug": "ginetta",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ginetta.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ginetta.png",
+      "local_round": "rounds/ginetta.png"
+    }
+  },
+  {
+    "name": "Great wall",
+    "slug": "great-wall",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/great-wall.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/great-wall.png",
+      "local_round": "rounds/great-wall.png"
+    }
+  },
+  {
+    "name": "Hongqi",
+    "slug": "hongqi",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hongqi.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hongqi.png",
+      "local_round": "rounds/hongqi.png"
+    }
+  },
+  {
+    "name": "Hafei",
+    "slug": "hafei",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hafei.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hafei.png",
+      "local_round": "rounds/hafei.png"
+    }
+  },
+  {
+    "name": "Hillman",
+    "slug": "hillman",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hillman.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hillman.png",
+      "local_round": "rounds/hillman.png"
     }
   },
   {
@@ -2574,6 +2556,33 @@
     }
   },
   {
+    "name": "Hino",
+    "slug": "hino",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hino.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hino.png",
+      "local_round": "rounds/hino.png"
+    }
+  },
+  {
+    "name": "Dayun",
+    "slug": "dayun",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dayun.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dayun.png",
+      "local_round": "rounds/dayun.png"
+    }
+  },
+  {
+    "name": "Luxgen",
+    "slug": "luxgen",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/luxgen.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/luxgen.png",
+      "local_round": "rounds/luxgen.png"
+    }
+  },
+  {
     "name": "Koenigsegg",
     "slug": "koenigsegg",
     "image": {
@@ -2592,48 +2601,12 @@
     }
   },
   {
-    "name": "Luxgen",
-    "slug": "luxgen",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/luxgen.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/luxgen.png",
-      "local_round": "rounds/luxgen.png"
-    }
-  },
-  {
     "name": "Mastretta",
     "slug": "mastretta",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mastretta.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mastretta.png",
       "local_round": "rounds/mastretta.png"
-    }
-  },
-  {
-    "name": "Packard",
-    "slug": "packard",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/packard.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/packard.png",
-      "local_round": "rounds/packard.png"
-    }
-  },
-  {
-    "name": "Panhard",
-    "slug": "panhard",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/panhard.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/panhard.png",
-      "local_round": "rounds/panhard.png"
-    }
-  },
-  {
-    "name": "Gillet",
-    "slug": "gillet",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gillet.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gillet.png",
-      "local_round": "rounds/gillet.png"
     }
   },
   {
@@ -2646,21 +2619,30 @@
     }
   },
   {
+    "name": "Packard",
+    "slug": "packard",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/packard.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/packard.png",
+      "local_round": "rounds/packard.png"
+    }
+  },
+  {
+    "name": "Panoz",
+    "slug": "panoz",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/panoz.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/panoz.png",
+      "local_round": "rounds/panoz.png"
+    }
+  },
+  {
     "name": "Perodua",
     "slug": "perodua",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/perodua.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/perodua.png",
       "local_round": "rounds/perodua.png"
-    }
-  },
-  {
-    "name": "Facel vega",
-    "slug": "facel-vega",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/facel-vega.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/facel-vega.png",
-      "local_round": "rounds/facel-vega.png"
     }
   },
   {
@@ -2682,12 +2664,21 @@
     }
   },
   {
-    "name": "Rimac",
-    "slug": "rimac",
+    "name": "Riley",
+    "slug": "riley",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rimac.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rimac.png",
-      "local_round": "rounds/rimac.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/riley.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/riley.png",
+      "local_round": "rounds/riley.png"
+    }
+  },
+  {
+    "name": "Panhard",
+    "slug": "panhard",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/panhard.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/panhard.png",
+      "local_round": "rounds/panhard.png"
     }
   },
   {
@@ -2709,24 +2700,6 @@
     }
   },
   {
-    "name": "Soueast",
-    "slug": "soueast",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/soueast.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/soueast.png",
-      "local_round": "rounds/soueast.png"
-    }
-  },
-  {
-    "name": "Riley",
-    "slug": "riley",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/riley.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/riley.png",
-      "local_round": "rounds/riley.png"
-    }
-  },
-  {
     "name": "Spyker",
     "slug": "spyker",
     "image": {
@@ -2736,93 +2709,12 @@
     }
   },
   {
-    "name": "Panoz",
-    "slug": "panoz",
+    "name": "Soueast",
+    "slug": "soueast",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/panoz.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/panoz.png",
-      "local_round": "rounds/panoz.png"
-    }
-  },
-  {
-    "name": "Vector",
-    "slug": "vector",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/vector.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/vector.png",
-      "local_round": "rounds/vector.png"
-    }
-  },
-  {
-    "name": "Vauxhall",
-    "slug": "vauxhall",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/vauxhall.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/vauxhall.png",
-      "local_round": "rounds/vauxhall.png"
-    }
-  },
-  {
-    "name": "Venucia",
-    "slug": "venucia",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/venucia.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/venucia.png",
-      "local_round": "rounds/venucia.png"
-    }
-  },
-  {
-    "name": "W motors",
-    "slug": "w-motors",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/w-motors.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/w-motors.png",
-      "local_round": "rounds/w-motors.png"
-    }
-  },
-  {
-    "name": "Vandenbrink",
-    "slug": "vandenbrink",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/vandenbrink.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/vandenbrink.png",
-      "local_round": "rounds/vandenbrink.png"
-    }
-  },
-  {
-    "name": "Wiesmann",
-    "slug": "wiesmann",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wiesmann.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wiesmann.png",
-      "local_round": "rounds/wiesmann.png"
-    }
-  },
-  {
-    "name": "Westfield",
-    "slug": "westfield",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/westfield.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/westfield.png",
-      "local_round": "rounds/westfield.png"
-    }
-  },
-  {
-    "name": "Talbot",
-    "slug": "talbot",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/talbot.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/talbot.png",
-      "local_round": "rounds/talbot.png"
-    }
-  },
-  {
-    "name": "Zastava",
-    "slug": "zastava",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zastava.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zastava.png",
-      "local_round": "rounds/zastava.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/soueast.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/soueast.png",
+      "local_round": "rounds/soueast.png"
     }
   },
   {
@@ -2835,21 +2727,39 @@
     }
   },
   {
-    "name": "Zenos",
-    "slug": "zenos",
+    "name": "Talbot",
+    "slug": "talbot",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zenos.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zenos.png",
-      "local_round": "rounds/zenos.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/talbot.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/talbot.png",
+      "local_round": "rounds/talbot.png"
     }
   },
   {
-    "name": "Willys overland",
-    "slug": "willys-overland",
+    "name": "Vandenbrink",
+    "slug": "vandenbrink",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/willys-overland.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/willys-overland.png",
-      "local_round": "rounds/willys-overland.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/vandenbrink.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/vandenbrink.png",
+      "local_round": "rounds/vandenbrink.png"
+    }
+  },
+  {
+    "name": "Vector",
+    "slug": "vector",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/vector.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/vector.png",
+      "local_round": "rounds/vector.png"
+    }
+  },
+  {
+    "name": "W motors",
+    "slug": "w-motors",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/w-motors.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/w-motors.png",
+      "local_round": "rounds/w-motors.png"
     }
   },
   {
@@ -2862,12 +2772,75 @@
     }
   },
   {
+    "name": "Westfield",
+    "slug": "westfield",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/westfield.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/westfield.png",
+      "local_round": "rounds/westfield.png"
+    }
+  },
+  {
     "name": "Techart",
     "slug": "techart",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/techart.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/techart.png",
       "local_round": "rounds/techart.png"
+    }
+  },
+  {
+    "name": "Venucia",
+    "slug": "venucia",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/venucia.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/venucia.png",
+      "local_round": "rounds/venucia.png"
+    }
+  },
+  {
+    "name": "Vauxhall",
+    "slug": "vauxhall",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/vauxhall.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/vauxhall.png",
+      "local_round": "rounds/vauxhall.png"
+    }
+  },
+  {
+    "name": "Zenos",
+    "slug": "zenos",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zenos.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zenos.png",
+      "local_round": "rounds/zenos.png"
+    }
+  },
+  {
+    "name": "Zastava",
+    "slug": "zastava",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/zastava.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/zastava.png",
+      "local_round": "rounds/zastava.png"
+    }
+  },
+  {
+    "name": "Rimac",
+    "slug": "rimac",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rimac.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rimac.png",
+      "local_round": "rounds/rimac.png"
+    }
+  },
+  {
+    "name": "Willys overland",
+    "slug": "willys-overland",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/willys-overland.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/willys-overland.png",
+      "local_round": "rounds/willys-overland.png"
     }
   },
   {
@@ -2880,6 +2853,33 @@
     }
   },
   {
+    "name": "Artega",
+    "slug": "artega",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/artega.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/artega.png",
+      "local_round": "rounds/artega.png"
+    }
+  },
+  {
+    "name": "Wiesmann",
+    "slug": "wiesmann",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wiesmann.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wiesmann.png",
+      "local_round": "rounds/wiesmann.png"
+    }
+  },
+  {
+    "name": "Eterniti",
+    "slug": "eterniti",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/eterniti.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/eterniti.png",
+      "local_round": "rounds/eterniti.png"
+    }
+  },
+  {
     "name": "Alpina",
     "slug": "alpina",
     "image": {
@@ -2889,39 +2889,12 @@
     }
   },
   {
-    "name": "Auburn",
-    "slug": "auburn",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/auburn.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/auburn.png",
-      "local_round": "rounds/auburn.png"
-    }
-  },
-  {
-    "name": "Bristol",
-    "slug": "bristol",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/bristol.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/bristol.png",
-      "local_round": "rounds/bristol.png"
-    }
-  },
-  {
     "name": "Arash",
     "slug": "arash",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/arash.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/arash.png",
       "local_round": "rounds/arash.png"
-    }
-  },
-  {
-    "name": "Cisitalia",
-    "slug": "cisitalia",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cisitalia.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cisitalia.png",
-      "local_round": "rounds/cisitalia.png"
     }
   },
   {
@@ -2943,93 +2916,12 @@
     }
   },
   {
-    "name": "Austin",
-    "slug": "austin",
+    "name": "Auburn",
+    "slug": "auburn",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/austin.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/austin.png",
-      "local_round": "rounds/austin.png"
-    }
-  },
-  {
-    "name": "Devel sixteen",
-    "slug": "devel-sixteen",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/devel-sixteen.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/devel-sixteen.png",
-      "local_round": "rounds/devel-sixteen.png"
-    }
-  },
-  {
-    "name": "Datsun",
-    "slug": "datsun",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/datsun.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/datsun.png",
-      "local_round": "rounds/datsun.png"
-    }
-  },
-  {
-    "name": "Fisker",
-    "slug": "fisker",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/fisker.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/fisker.png",
-      "local_round": "rounds/fisker.png"
-    }
-  },
-  {
-    "name": "Elfin",
-    "slug": "elfin",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/elfin.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/elfin.png",
-      "local_round": "rounds/elfin.png"
-    }
-  },
-  {
-    "name": "Hudson",
-    "slug": "hudson",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hudson.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hudson.png",
-      "local_round": "rounds/hudson.png"
-    }
-  },
-  {
-    "name": "Faw",
-    "slug": "faw",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/faw.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/faw.png",
-      "local_round": "rounds/faw.png"
-    }
-  },
-  {
-    "name": "International",
-    "slug": "international",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/international.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/international.png",
-      "local_round": "rounds/international.png"
-    }
-  },
-  {
-    "name": "Jensen",
-    "slug": "jensen",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jensen.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jensen.png",
-      "local_round": "rounds/jensen.png"
-    }
-  },
-  {
-    "name": "Desoto",
-    "slug": "desoto",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/desoto.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/desoto.png",
-      "local_round": "rounds/desoto.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/auburn.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/auburn.png",
+      "local_round": "rounds/auburn.png"
     }
   },
   {
@@ -3042,12 +2934,84 @@
     }
   },
   {
-    "name": "Hupmobile",
-    "slug": "hupmobile",
+    "name": "Datsun",
+    "slug": "datsun",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hupmobile.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hupmobile.png",
-      "local_round": "rounds/hupmobile.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/datsun.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/datsun.png",
+      "local_round": "rounds/datsun.png"
+    }
+  },
+  {
+    "name": "Devel sixteen",
+    "slug": "devel-sixteen",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/devel-sixteen.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/devel-sixteen.png",
+      "local_round": "rounds/devel-sixteen.png"
+    }
+  },
+  {
+    "name": "Cisitalia",
+    "slug": "cisitalia",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/cisitalia.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/cisitalia.png",
+      "local_round": "rounds/cisitalia.png"
+    }
+  },
+  {
+    "name": "Desoto",
+    "slug": "desoto",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/desoto.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/desoto.png",
+      "local_round": "rounds/desoto.png"
+    }
+  },
+  {
+    "name": "Elfin",
+    "slug": "elfin",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/elfin.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/elfin.png",
+      "local_round": "rounds/elfin.png"
+    }
+  },
+  {
+    "name": "Faw",
+    "slug": "faw",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/faw.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/faw.png",
+      "local_round": "rounds/faw.png"
+    }
+  },
+  {
+    "name": "Fisker",
+    "slug": "fisker",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/fisker.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/fisker.png",
+      "local_round": "rounds/fisker.png"
+    }
+  },
+  {
+    "name": "Bristol",
+    "slug": "bristol",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/bristol.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/bristol.png",
+      "local_round": "rounds/bristol.png"
+    }
+  },
+  {
+    "name": "Hudson",
+    "slug": "hudson",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hudson.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hudson.png",
+      "local_round": "rounds/hudson.png"
     }
   },
   {
@@ -3060,12 +3024,12 @@
     }
   },
   {
-    "name": "Melkus",
-    "slug": "melkus",
+    "name": "International",
+    "slug": "international",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/melkus.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/melkus.png",
-      "local_round": "rounds/melkus.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/international.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/international.png",
+      "local_round": "rounds/international.png"
     }
   },
   {
@@ -3087,12 +3051,12 @@
     }
   },
   {
-    "name": "Microcar",
-    "slug": "microcar",
+    "name": "Melkus",
+    "slug": "melkus",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/microcar.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/microcar.png",
-      "local_round": "rounds/microcar.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/melkus.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/melkus.png",
+      "local_round": "rounds/melkus.png"
     }
   },
   {
@@ -3105,6 +3069,15 @@
     }
   },
   {
+    "name": "Microcar",
+    "slug": "microcar",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/microcar.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/microcar.png",
+      "local_round": "rounds/microcar.png"
+    }
+  },
+  {
     "name": "Ram",
     "slug": "ram",
     "image": {
@@ -3114,21 +3087,12 @@
     }
   },
   {
-    "name": "Rossion",
-    "slug": "rossion",
+    "name": "Austin",
+    "slug": "austin",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rossion.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rossion.png",
-      "local_round": "rounds/rossion.png"
-    }
-  },
-  {
-    "name": "Rover",
-    "slug": "rover",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rover.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rover.png",
-      "local_round": "rounds/rover.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/austin.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/austin.png",
+      "local_round": "rounds/austin.png"
     }
   },
   {
@@ -3141,24 +3105,6 @@
     }
   },
   {
-    "name": "Ssc",
-    "slug": "ssc",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ssc.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ssc.png",
-      "local_round": "rounds/ssc.png"
-    }
-  },
-  {
-    "name": "Saic motor",
-    "slug": "saic-motor",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/saic-motor.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/saic-motor.png",
-      "local_round": "rounds/saic-motor.png"
-    }
-  },
-  {
     "name": "Smart",
     "slug": "smart",
     "image": {
@@ -3168,30 +3114,21 @@
     }
   },
   {
-    "name": "Toyota crown",
-    "slug": "toyota-crown",
+    "name": "Rover",
+    "slug": "rover",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/toyota-crown.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/toyota-crown.png",
-      "local_round": "rounds/toyota-crown.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rover.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rover.png",
+      "local_round": "rounds/rover.png"
     }
   },
   {
-    "name": "Toyota century",
-    "slug": "toyota-century",
+    "name": "Ssc",
+    "slug": "ssc",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/toyota-century.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/toyota-century.png",
-      "local_round": "rounds/toyota-century.png"
-    }
-  },
-  {
-    "name": "Proton",
-    "slug": "proton",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/proton.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/proton.png",
-      "local_round": "rounds/proton.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/ssc.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/ssc.png",
+      "local_round": "rounds/ssc.png"
     }
   },
   {
@@ -3204,12 +3141,30 @@
     }
   },
   {
-    "name": "Wuling",
-    "slug": "wuling",
+    "name": "Toyota century",
+    "slug": "toyota-century",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wuling.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wuling.png",
-      "local_round": "rounds/wuling.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/toyota-century.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/toyota-century.png",
+      "local_round": "rounds/toyota-century.png"
+    }
+  },
+  {
+    "name": "Toyota crown",
+    "slug": "toyota-crown",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/toyota-crown.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/toyota-crown.png",
+      "local_round": "rounds/toyota-crown.png"
+    }
+  },
+  {
+    "name": "Proton",
+    "slug": "proton",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/proton.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/proton.png",
+      "local_round": "rounds/proton.png"
     }
   },
   {
@@ -3231,12 +3186,57 @@
     }
   },
   {
+    "name": "Rossion",
+    "slug": "rossion",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/rossion.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/rossion.png",
+      "local_round": "rounds/rossion.png"
+    }
+  },
+  {
+    "name": "Wuling",
+    "slug": "wuling",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/wuling.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/wuling.png",
+      "local_round": "rounds/wuling.png"
+    }
+  },
+  {
+    "name": "Hupmobile",
+    "slug": "hupmobile",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/hupmobile.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/hupmobile.png",
+      "local_round": "rounds/hupmobile.png"
+    }
+  },
+  {
+    "name": "Jensen",
+    "slug": "jensen",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/jensen.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/jensen.png",
+      "local_round": "rounds/jensen.png"
+    }
+  },
+  {
     "name": "Tucker",
     "slug": "tucker",
     "image": {
       "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/tucker.png",
       "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/tucker.png",
       "local_round": "rounds/tucker.png"
+    }
+  },
+  {
+    "name": "Saic motor",
+    "slug": "saic-motor",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/saic-motor.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/saic-motor.png",
+      "local_round": "rounds/saic-motor.png"
     }
   },
   {
@@ -3249,21 +3249,12 @@
     }
   },
   {
-    "name": "Edsel",
-    "slug": "edsel",
+    "name": "Detroit electric",
+    "slug": "detroit-electric",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/edsel.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/edsel.png",
-      "local_round": "rounds/edsel.png"
-    }
-  },
-  {
-    "name": "Englon",
-    "slug": "englon",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/englon.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/englon.png",
-      "local_round": "rounds/englon.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/detroit-electric.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/detroit-electric.png",
+      "local_round": "rounds/detroit-electric.png"
     }
   },
   {
@@ -3276,21 +3267,30 @@
     }
   },
   {
-    "name": "Gumpert",
-    "slug": "gumpert",
+    "name": "Englon",
+    "slug": "englon",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gumpert.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gumpert.png",
-      "local_round": "rounds/gumpert.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/englon.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/englon.png",
+      "local_round": "rounds/englon.png"
     }
   },
   {
-    "name": "Lancia",
-    "slug": "lancia",
+    "name": "Edsel",
+    "slug": "edsel",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lancia.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lancia.png",
-      "local_round": "rounds/lancia.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/edsel.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/edsel.png",
+      "local_round": "rounds/edsel.png"
+    }
+  },
+  {
+    "name": "Caterham",
+    "slug": "caterham",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/caterham.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/caterham.png",
+      "local_round": "rounds/caterham.png"
     }
   },
   {
@@ -3303,21 +3303,30 @@
     }
   },
   {
-    "name": "Detroit electric",
-    "slug": "detroit-electric",
+    "name": "Lancia",
+    "slug": "lancia",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/detroit-electric.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/detroit-electric.png",
-      "local_round": "rounds/detroit-electric.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/lancia.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/lancia.png",
+      "local_round": "rounds/lancia.png"
     }
   },
   {
-    "name": "Mazzanti",
-    "slug": "mazzanti",
+    "name": "Gumpert",
+    "slug": "gumpert",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mazzanti.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mazzanti.png",
-      "local_round": "rounds/mazzanti.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/gumpert.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/gumpert.png",
+      "local_round": "rounds/gumpert.png"
+    }
+  },
+  {
+    "name": "Kaiser",
+    "slug": "kaiser",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/kaiser.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/kaiser.png",
+      "local_round": "rounds/kaiser.png"
     }
   },
   {
@@ -3330,6 +3339,15 @@
     }
   },
   {
+    "name": "Mazzanti",
+    "slug": "mazzanti",
+    "image": {
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/mazzanti.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/mazzanti.png",
+      "local_round": "rounds/mazzanti.png"
+    }
+  },
+  {
     "name": "Pagani",
     "slug": "pagani",
     "image": {
@@ -3339,12 +3357,12 @@
     }
   },
   {
-    "name": "Kaiser",
-    "slug": "kaiser",
+    "name": "Roewe",
+    "slug": "roewe",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/kaiser.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/kaiser.png",
-      "local_round": "rounds/kaiser.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/roewe.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/roewe.png",
+      "local_round": "rounds/roewe.png"
     }
   },
   {
@@ -3375,30 +3393,21 @@
     }
   },
   {
-    "name": "Roewe",
-    "slug": "roewe",
+    "name": "Alfa romeo",
+    "slug": "alfa-romeo",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/roewe.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/roewe.png",
-      "local_round": "rounds/roewe.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/alfa-romeo.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/alfa-romeo.png",
+      "local_round": "rounds/alfa-romeo.png"
     }
   },
   {
-    "name": "Iso",
-    "slug": "iso",
+    "name": "Dartz",
+    "slug": "dartz",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/iso.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/iso.png",
-      "local_round": "rounds/iso.png"
-    }
-  },
-  {
-    "name": "Caterham",
-    "slug": "caterham",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/caterham.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/caterham.png",
-      "local_round": "rounds/caterham.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dartz.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dartz.png",
+      "local_round": "rounds/dartz.png"
     }
   },
   {
@@ -3411,12 +3420,12 @@
     }
   },
   {
-    "name": "Alfa romeo",
-    "slug": "alfa-romeo",
+    "name": "Holden",
+    "slug": "holden",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/alfa-romeo.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/alfa-romeo.png",
-      "local_round": "rounds/alfa-romeo.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/holden.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/holden.png",
+      "local_round": "rounds/holden.png"
     }
   },
   {
@@ -3429,21 +3438,12 @@
     }
   },
   {
-    "name": "Holden",
-    "slug": "holden",
+    "name": "Iso",
+    "slug": "iso",
     "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/holden.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/holden.png",
-      "local_round": "rounds/holden.png"
-    }
-  },
-  {
-    "name": "Dartz",
-    "slug": "dartz",
-    "image": {
-      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/dartz.png",
-      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/dartz.png",
-      "local_round": "rounds/dartz.png"
+      "round": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/rounds/iso.png",
+      "original": "https://raw.githubusercontent.com/javimogan/vehicle-logos-dataset/main/logos/originals/iso.png",
+      "local_round": "rounds/iso.png"
     }
   },
   {
