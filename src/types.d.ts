@@ -7,3 +7,10 @@ export interface IBrand {
         local_round: string;
     }
 }
+export enum EDefaultTypes {
+    CAR = 'car',
+    MOTORBIKE = 'motorbike',
+    TRACTOR = 'tractor',
+    TRAILER = 'trailer',
+    TRUCK = 'truck'
+}
